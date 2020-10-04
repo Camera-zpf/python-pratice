@@ -1,0 +1,6 @@
+common.py
+*.pyo
+*.c
+*.html
+build/*
+pracmln/*
